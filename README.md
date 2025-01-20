@@ -1,5 +1,5 @@
 # Visualisation
-Cours intensifs _ Visualisation, Interface et Interactivité _Everardo REYES
+Cours intensifs _ Visualisation, Interface et Interactivité avec Mr.Everardo REYES
 # index.html
 j'ai créer une page HTML qui affiche le contenu d'un fichier CSV en tableau HTML
 Description :
