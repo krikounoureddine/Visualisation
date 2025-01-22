@@ -35,7 +35,7 @@ Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visua
 ### index_universites.html
 j'ai créer une page HTML qui affiche le contenu d'un fichier CSV **universites.csv** sous forme de **graphique Histogramme**.
 
-Pour accéder au fichier CSV **universites.csv**, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv).
+Pour accéder au fichier CSV **universites.csv**, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/universites.csv).
 
 Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/index_universites.html).
 ### GraphiquesVoyantTools.html
