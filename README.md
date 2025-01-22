@@ -24,5 +24,7 @@ Cette page web interactive permet de charger un fichier CSV depuis votre ordinat
 # MonExemple.html
 j'ai créer une page HTML MonExemple.html qui affiche la requête les personnes célèbre en Algérie avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
 
+Pour accéder à la page, [cliquez ici]().
+
 
 
