@@ -18,24 +18,37 @@ Notre objectif est de présenter une visualisation interactive des universités 
 - Les infrastructures.
 ## La première scéance
 ### s01e01.html
-j'ai créer une page HTML qui affiche la requête la classe - wd_peintres avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
-Pour accéder au tableau de la classe - wd_peintres, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv).
-Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/s01e01.html).
-### Affichage fichier CSV.html
-j'ai créer une page HTML qui affiche le contenu d'un fichier CSV sous forme de tableau HTML
+j'ai créer une page HTML qui affiche la requête **la classe - wd_peintres** avec **Wikidata Query Service** sous forme de graphique et avec un outil en ligne **RAWGraphs** sous forme Image.
 
-Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/Affichage fichier CSV.html.html).
+Pour accéder au tableau de la classe - wd_peintres, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv).
+
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/s01e01.html).
+### AffichagefichierCSV.html
+j'ai créer une page HTML qui affiche le contenu d'un fichier **CSV** sous forme de **tableau HTML**.
+
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/AffichagefichierCSV.html).
 ### MonExemple.html
-j'ai créer une page HTML qui affiche la requête les personnes célèbre en Algérie avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
+j'ai créer une page HTML qui affiche **la requête les personnes célèbre en Algérie** avec **Wikidata Query Service** sous forme de graphique et avec un outil en ligne **RAWGraphs** sous forme Image.
 
 Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/MonExemple.html).
 ## La deuxième scéance
 ### index_universites.html
+j'ai créer une page HTML qui affiche le contenu d'un fichier CSV **universites.csv** sous forme de **graphique Histogramme**.
+
+Pour accéder au fichier CSV **universites.csv**, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv).
+
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/index_universites.html).
 ### GraphiquesVoyantTools.html
-### Rain Words Effect.html
+j'ai créer une page HTML qui affiche l'analyse d'un text avec **Graphiques Voyant Tools** sous forme de **graphique** et **Nuage de Mots**.
 
-### images :
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/GraphiquesVoyantTools.html).
+### RainWordsEffect.html
+j'ai créer une page HTML qui afficher **la pluie texte mot par mot**. 
 
- ![image alt](https://github.com/krikounoureddine/Projet-du-module-Langages-et-Developpement-Web/blob/main/qrcode.png)
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/RainWordsEffect.html).
+
+### Les images :
+
+ ![image alt]()
 
 
