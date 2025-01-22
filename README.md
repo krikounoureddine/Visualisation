@@ -72,7 +72,7 @@ Affiche un effet de **pluie de mots** animé.
 
 ## Captures d'Écran  
 
-Ajoutez ici des images ou captures d’écran pour illustrer vos pages et visualisations.  
+ici des images ou captures d’écran pour illustrer nos pages et visualisations.  
 
 ---
 
