@@ -1,4 +1,4 @@
-# Présentation du Module et du Groupe de Travail
+# Présentation du Module
 ## 1. Introduction
 **Module** : Cours intensifs - Visualisation, Interface et Interactivité
 
@@ -16,15 +16,26 @@ Notre objectif est de présenter une visualisation interactive des universités 
 - Leur répartition géographique.
 - Le classement international (par exemple, QS Rankings, Shanghai Ranking).
 - Les infrastructures.
-# index.html
-j'ai créer une page HTML qui affiche le contenu d'un fichier CSV en tableau HTML
+## La première scéance
+### s01e01.html
+j'ai créer une page HTML qui affiche la requête la classe - wd_peintres avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
+Pour accéder au tableau de la classe - wd_peintres, [cliquez ici](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv).
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/s01e01.html).
+### Affichage fichier CSV.html
+j'ai créer une page HTML qui affiche le contenu d'un fichier CSV sous forme de tableau HTML
 
-Description :
-Cette page web interactive permet de charger un fichier CSV depuis votre ordinateur et d'afficher son contenu sous forme de tableau HTML. Grâce à une interface conviviale, les utilisateurs peuvent facilement visualiser les données structurées. Le tableau est dynamique, bien stylisé et met en évidence les lignes de manière alternée pour une meilleure lisibilité.
-# MonExemple.html
-j'ai créer une page HTML MonExemple.html qui affiche la requête les personnes célèbre en Algérie avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/Affichage fichier CSV.html.html).
+### MonExemple.html
+j'ai créer une page HTML qui affiche la requête les personnes célèbre en Algérie avec Wikidata Query Service sous forme de graphique et avec un outil en ligne RAWGraphs sous forme Image.
 
-Pour accéder à la page, [cliquez ici]().
+Pour accéder à la page, [cliquez ici](https://krikounoureddine.github.io/Visualisation/MonExemple.html).
+## La deuxième scéance
+### index_universites.html
+### GraphiquesVoyantTools.html
+### Rain Words Effect.html
 
+### images :
+
+ ![image alt](https://github.com/krikounoureddine/Projet-du-module-Langages-et-Developpement-Web/blob/main/qrcode.png)
 
 
