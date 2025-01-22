@@ -1,6 +1,7 @@
 # Présentation du Module et du Groupe de Travail
 ## 1. Introduction
 **Module** : Cours intensifs - Visualisation, Interface et Interactivité
+
 **Enseignant** : M. Everardo Reyes
 Ce module explore les techniques de visualisation des données, les interfaces utilisateur et les interactions numériques pour présenter l'information de manière intuitive et engageante.
 
@@ -17,6 +18,7 @@ Notre objectif est de présenter une visualisation interactive des universités 
 - Les infrastructures.
 # index.html
 j'ai créer une page HTML qui affiche le contenu d'un fichier CSV en tableau HTML
+
 Description :
 Cette page web interactive permet de charger un fichier CSV depuis votre ordinateur et d'afficher son contenu sous forme de tableau HTML. Grâce à une interface conviviale, les utilisateurs peuvent facilement visualiser les données structurées. Le tableau est dynamique, bien stylisé et met en évidence les lignes de manière alternée pour une meilleure lisibilité.
 # MonExemple.html
