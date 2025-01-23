@@ -1,59 +1,82 @@
-:::info
+# Visualisation, Interface et Interactivité
 
-# Projet de Visualisation : Les Universités du Monde
-# Présentation
-# Contexte
-:::info
+## Présentation du Module
 
-:::
-:::success
+### Module : **Cours intensifs - Visualisation, Interface et Interactivité**  
+**Enseignant :** M. Everardo Reyes  
 
-:::warning
-Ce projet, réalisé dans le cadre du cours intensif "Visualisation, Interface et Interactivité" sous la direction de M. Everardo Reyes, vise à créer une visualisation interactive des universités mondiales. L'objectif est de présenter de manière claire et attrayante des informations variées sur les établissements, telles que leur localisation géographique, leur classement international et leurs infrastructures.
-:::success
+Ce module se concentre sur les techniques de visualisation des données, les interfaces utilisateur et les interactions numériques pour présenter des informations de manière intuitive et engageante.
 
-:::
-Équipe
-:+1: :accept: :accept: :accept: :accept: 
-Noureddine KRIKOU
-Ferroudja BELKESSA MEZINE
-Sirine ROMDHANE
-Aurelle SANY
-:1234: 
-# Déroulement du Projet
-## Première Séance
-:::success
-Lors de la première séance, nous avons réalisé nos premiers pas en matière de visualisation de données en utilisant Wikidata Query Service et des outils comme RAWGraphs. Nous avons expérimenté différentes représentations visuelles :
+---
 
-Graphiques : Nous avons créé des graphiques à partir de requêtes sur des peintres célèbres et des personnalités algériennes.
-Tableaux : Nous avons affiché des données sous forme de tableaux HTML pour une meilleure lisibilité.
-Deuxième Séance
-La deuxième séance a été consacrée à l'approfondissement de nos compétences en visualisation et à l'application de celles-ci à notre projet principal. Nous avons notamment travaillé sur :
+## Groupe de Travail
 
-Histogrammes : Nous avons créé des histogrammes pour représenter la répartition des universités.
-Analyse de texte : Nous avons utilisé Voyant Tools pour analyser des textes et générer des nuages de mots et des graphiques.
-Effets visuels : Nous avons expérimenté des effets visuels dynamiques, comme la pluie de mots.
-Outils Utilisés
-Wikidata Query Service : Pour récupérer les données sur les universités.
-RAWGraphs : Pour créer des graphiques à partir de données.
-HTML, CSS, JavaScript : Pour développer les interfaces web.
-Voyant Tools : Pour l'analyse de texte.
-Résultats et Perspectives
-[Insérer ici des captures d'écran des visualisations réalisées]
+- **Noureddine KRIKOU** : [krikounoureddine@gmail.com](mailto:krikounoureddine@gmail.com)  
+- **Ferroudja BELKESSA MEZINE** : [ferroudja.mezine@etud.univ-paris8.fr](mailto:ferroudja.mezine@etud.univ-paris8.fr)  
+- **Sirine ROMDHANE** : [sirinermdn@gmail.com](mailto:sirinermdn@gmail.com)  
+- **Aurelle SANY** : [sanyaurelle@gmail.com](mailto:sanyaurelle@gmail.com)  
 
-Les captures d'écran permettront d'illustrer les résultats obtenus et de montrer l'évolution du projet.
+---
 
-Contributions
-N'hésitez pas à nous contacter pour toute suggestion ou contribution.
+## Projet : **Les Universités du Monde**
 
-Note :
+L'objectif de ce projet est de créer une visualisation interactive des universités à travers le monde, mettant en avant :  
+- Leur **répartition géographique**.  
+- Leur **classement international** (par exemple, QS Rankings, Shanghai Ranking).  
+- Leurs **infrastructures**.  
 
-Structuration : Le texte est structuré en sections claires pour faciliter la compréhension.
-Clarté : Les termes techniques sont expliqués de manière simple.
-Cohérence : Le texte suit une progression logique, de la présentation du projet aux résultats.
-Suggestions supplémentaires :
+---
 
-Détails techniques : Vous pouvez ajouter plus de détails sur les techniques utilisées pour créer certaines visualisations (par exemple, les types de graphiques, les bibliothèques JavaScript utilisées).
-Difficultés rencontrées : Vous pouvez mentionner les difficultés rencontrées et comment vous les avez surmontées.
-Prochaines étapes : Vous pouvez évoquer les prochaines étapes du projet, comme l'ajout de nouvelles fonctionnalités ou l'amélioration des visualisations existantes.
-Cette proposition vous donne une base solide pour rédiger votre rapport. N'hésitez pas à l'adapter en fonction de vos besoins spécifiques.
+## Détails des Séances
+
+### **Première Séance**  
+#### s01e01.html  
+Une page HTML affichant la requête **"la classe - wd_peintres"** issue de **Wikidata Query Service**, visualisée :  
+- Sous forme de graphique grâce à l'outil en ligne **RAWGraphs**.  
+- Sous forme de tableau CSV.  
+
+- [Accéder au tableau CSV](https://github.com/krikounoureddine/Visualisation/blob/main/tableau%20de%20la%20classe%20-%20wd_peintres.csv)  
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/s01e01.html)  
+
+#### AffichagefichierCSV.html  
+Affiche le contenu d’un fichier **CSV** sous forme de **tableau HTML**.  
+
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/AffichagefichierCSV.html)  
+
+#### MonExemple.html  
+Affiche la requête **"les personnes célèbres en Algérie"** issue de **Wikidata Query Service**, visualisée :  
+- Sous forme de graphique avec **RAWGraphs**.  
+
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/MonExemple.html)  
+
+---
+
+### **Deuxième Séance**  
+#### index_universites.html  
+Affiche le contenu du fichier **universites.csv** sous forme de **graphique Histogramme**.  
+
+- [Accéder au fichier CSV](https://github.com/krikounoureddine/Visualisation/blob/main/universites.csv)  
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/index_universites.html)  
+
+#### GraphiquesVoyantTools.html  
+Analyse un texte avec **Voyant Tools** et affiche les résultats sous forme de **graphique** et **nuage de mots**.  
+
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/GraphiquesVoyantTools.html)  
+
+#### RainWordsEffect.html  
+Affiche un effet de **pluie de mots** animé.  
+
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/RainWordsEffect.html)  
+
+---
+
+## Captures d'Écran  
+
+ici des images ou captures d’écran pour illustrer nos pages et visualisations.  
+
+---
+
+## Contribution  
+
+Pour toute suggestion ou contribution, merci de contacter l’un des membres du groupe.
+
