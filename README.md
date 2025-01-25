@@ -22,9 +22,22 @@ Ce module se concentre sur les techniques de visualisation des données, les int
 
 L'objectif de ce projet est de créer une visualisation interactive des universités à travers le monde, mettant en avant :  
 - Leur **répartition géographique**.  
-- Leur **classement international** (par exemple, QS Rankings, Shanghai Ranking).  
-- Leurs **infrastructures**.  
+- Leur **les publications scientifiques**.  
+- Leurs **infrastructures**(la date de création,le nombre d'étudiants,les facultés..)
+  
+#### outil_perssonelle.html
+Cette page sert de plateforme interactive pour analyser et visualiser des données complexes sur les universités dans le monde, en combinant des graphiques, une carte, et des tableaux dans une interface conviviale et professionnelle.
+- [Accéder au tableau CSV](https://github.com/krikounoureddine/Visualisation/blob/main/projet/BDD/univesit%C3%A9s%20du%20monde.csv)  
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/projet/outil_perssonelle.html)
+  
+#### Visualisation_données_non_structurées.html
+Cette page web est une démonstration bien structurée et visuellement agréable, qui combine interactivité et contenu informatif. La page est organisée en plusieurs sections distinctes, notamment une animation interactive intitulée "Make it Rain!" et une galerie d'images illustrant différentes universités dans le monde. 
+- [Accéder à la page HTML[]()](https://krikounoureddine.github.io/Visualisation/projet/Visualisation_donn%C3%A9es_non_structur%C3%A9es.html) 
 
+#### Visualisation_données_structurées.html
+Cette page web interactive est conçue pour afficher des données structurées sous la forme de graphiques dynamiques et de tableaux interactifs. Elle permet aux utilisateurs de visualiser des informations provenant de fichiers CSV ou de graphiques hébergés sur des plateformes externes comme Datawrapper.
+- [Accéder au tableau CSV](https://github.com/krikounoureddine/Visualisation/blob/main/projet/BDD/Visualisation_donn%C3%A9es_structur%C3%A9es.csv)  
+- [Accéder à la page HTML](https://krikounoureddine.github.io/Visualisation/projet/Visualisation_donn%C3%A9es_structur%C3%A9es.html) 
 ---
 
 ## Détails des Séances
